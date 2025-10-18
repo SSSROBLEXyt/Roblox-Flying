@@ -1,0 +1,14 @@
+# Ignore runtime artifacts and editors
+.DS_Store
+node_modules/
+venv/
+__pycache__/
+*.log
+
+# Ignore common IDE/editor folders
+.vscode/
+.idea/
+
+# Ignore any saved Roblox studio files or binary blobs
+*.rbxl*
+*.rbxm
